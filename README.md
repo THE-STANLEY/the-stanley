@@ -2,7 +2,7 @@
 
 ## ↘ React Front-end Engineer ↙
 
-✔️ **Fron-tend skills**:
+✔️ **Front-end skills**:
 - JavaScript / TypeScript
 - React.js
 - Next.js 
