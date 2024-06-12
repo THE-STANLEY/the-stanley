@@ -2,23 +2,19 @@
 
 ## ↘ React Front-end Engineer ↙
 
-✔️ Front-end Skills:
+    ✔️ **Fron-tend skills**:
+- JavaScript / TypeScript
+- React.js
+- Next.js 
+- Webpack, Gulp
+- Git / GitHub
+- HTML
+- Css, Scss, Bootstrap
 
-    - JavaScript / TypeScript
-    - React.js
-    - Next.js
-    - Webpack , Gulp
-    - Git / GitHub
-    - HTML
-    - Css, Scss, Bootstrap
+✔️ **Back-end skills**: 
+- NodeJs
+- MySql / SqLite
 
-✔️ Back-end skills:
-
-    - Node.js
-    - MySql
-    - SqLite
-
-📩 Contacts:
-
-    - telegram: @systemflex
-    - mail: lilstanley@inbox.ru
+✔️ **Contacts**: 
+- telegram: @systemflex
+- mail: lilstanley@inbox.ru
