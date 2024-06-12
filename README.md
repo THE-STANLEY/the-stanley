@@ -4,21 +4,21 @@
 
 ✔️ Front-end Skills:
 
-    JavaScript / TypeScript
-    React.js
-    Next.js
-    Webpack , Gulp
-    Git / GitHub
-    HTML
-    Css, Scss, Bootstrap
+    - JavaScript / TypeScript
+    - React.js
+    - Next.js
+    - Webpack , Gulp
+    - Git / GitHub
+    - HTML
+    - Css, Scss, Bootstrap
 
 ✔️ Back-end skills:
 
-    Node.js
-    MySql
-    SqLite
+    - Node.js
+    - MySql
+    - SqLite
 
 📩 Contacts:
 
-    • telegram: @systemflex
-    • mail: lilstanley@inbox.ru
+    - telegram: @systemflex
+    - mail: lilstanley@inbox.ru
