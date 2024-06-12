@@ -3,19 +3,20 @@
 ## ↘ React Front-end Engineer ↙
 
 ✔️ Front-end Skills:
-    • JavaScript/TypeScript
-    • React.js
-    • Next.js
-    • Webpack/Gulp
-    • Git / GitHub
-    • HTML
-    • Css, Scss, Bootstrap
+
+    JavaScript / TypeScript
+    React.js
+    Next.js
+    Webpack , Gulp
+    Git / GitHub
+    HTML
+    Css, Scss, Bootstrap
 
 ✔️ Back-end skills:
 
-    • Node.js
-    • MySql
-    • SqLite
+    Node.js
+    MySql
+    SqLite
 
 📩 Contacts:
 
